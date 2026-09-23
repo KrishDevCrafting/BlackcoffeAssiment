@@ -25,7 +25,7 @@ export default function HomeScreen() {
           <Text style={styles.cardText}>
             Explore stories, people and places.
           </Text>
-
+          <text>Krish Kapoor</text>
           <Pressable style={styles.button}>
             <Text style={styles.buttonText}>Explore</Text>
           </Pressable>
